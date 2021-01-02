@@ -25,3 +25,5 @@ The columns for the main sheet are as follows;
 - Final Proj (numberfire and lineups projections added and divided by 2 for the average)
 - Final Value (numberfire and lineups value added and divided by 2 for the average)
 - PTS for 5x value (amount of points a player needs to score in order to hit 5x value)
+
+The .TSV sheet can be viewed right on github but you cannot filter columns or anything, the sheet is available for download in XLM form so you can import it into excel or google sheets(which I use to create the sheets)
