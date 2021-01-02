@@ -26,4 +26,6 @@ The columns for the main sheet are as follows;
 - Final Value (numberfire and lineups value added and divided by 2 for the average)
 - PTS for 5x value (amount of points a player needs to score in order to hit 5x value)
 
+** Players that have projections or cells that are N/A most likely means they're not playing that night, sheet is updated 2-3 times a day as news comes out closer to tipoff **
+
 The .TSV sheet can be viewed right on github but you cannot filter columns or anything, the sheet is available for download in XLM form so you can import it into excel or google sheets(which I use to create the sheets)
