@@ -35,3 +35,5 @@ The main sheet labeled 'Sheet 1', uses VLOOKUP function to grab the data from th
 The .TSV sheet can be viewed right on github but you cannot filter columns or anything, the sheet is available for download in XLM form so you can import it into excel or google sheets(which I use to create the sheets)
 
 This sheet and the data pulled will be building blocks to a machine learning program which will help create optimized lineups for each slate on the FanDuel website.  
+
+Special thanks to contributor : Shan Mohamed - a long time friend, fantasy sport enthusiast, and excel expert.
