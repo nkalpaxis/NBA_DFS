@@ -26,6 +26,10 @@ The columns for the main sheet are as follows;
 - Final Value (numberfire and lineups value added and divided by 2 for the average)
 - PTS for 5x value (amount of points a player needs to score in order to hit 5x value)
 
+The main sheet labeled 'Sheet 1', uses VLOOKUP function to grab the data from the other sheets like 'numfire' and 'dff', for example;
+
+=VLOOKUP(B2,numfire!A:C,3,false) -- the B column on Sheet 1 is the players name, so in the B2 cell that players name is found in the numfire sheet and the projection is pulled into Sheet 1, it searches for that players name between columns A:C and the projection value is located at index 3, false refers to [is_sorted] so by passing in false the function knows the players names on each sheet are not sorted.
+
 ** Players that have projections or cells that are N/A most likely means they're not playing that night, sheet is updated 2-3 times a day as news comes out closer to tipoff **
 
 The .TSV sheet can be viewed right on github but you cannot filter columns or anything, the sheet is available for download in XLM form so you can import it into excel or google sheets(which I use to create the sheets)
