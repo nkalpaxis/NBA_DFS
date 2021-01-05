@@ -25,6 +25,7 @@ The columns for the main sheet are as follows;
 - Final Proj (numberfire and lineups projections added and divided by 2 for the average)
 - Final Value (numberfire and lineups value added and divided by 2 for the average)
 - PTS for 5x value (amount of points a player needs to score in order to hit 5x value)
+- Minutes (per game) 
 
 The main sheet labeled 'Sheet 1', uses VLOOKUP function to grab the data from the other sheets like 'numfire' and 'dff', for example;
 
