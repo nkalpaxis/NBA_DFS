@@ -1,0 +1,368 @@
+Position	Nickname	FPPG	Salary	Team	Opponent	NF Proj	NF Value	DFF Proj	DFF Value	DvP	USG%	Final Proj	Final Value	PTS for 5x value	Minutes
+C	Nikola Jokic	56.84	$11,300.00	DEN	DAL	52.9	4.68	55.9	4.95	22.88	26.8	54.4	4.81	56.50	36
+PG	Luka Doncic	46.22	$11,100.00	DAL	DEN	54.5	4.91	48.2	4.34	25.15	37.3	51.35	4.63	55.50	31
+PF	Anthony Davis	44.01	$10,400.00	LAL	SA	49.9	4.80	45	4.33	21.58	27.8	47.45	4.56	52.00	34
+C	Karl-Anthony Towns	49.30	$10,200.00	MIN	POR	Not Playing	0	Not Playing	0	23.76	Not Playing	0	0.00	51.00	Not Playing
+SF	LeBron James	46.46	$10,100.00	LAL	SA	54.9	5.44	49.3	4.88	30.62	32.2	52.1	5.16	50.50	30
+PG	Kyrie Irving	46.13	$10,000.00	BKN	PHI	43.3	4.33	48.1	4.81	18.92	30.1	45.7	4.57	50.00	35
+C	Joel Embiid	50.84	$9,900.00	PHI	BKN	53.2	5.37	51.5	5.20	20.53	28.8	52.35	5.29	49.50	30
+SF	Kevin Durant	46.32	$9,800.00	BKN	PHI	0	0.00	Not Playing	0	20.08	Not Playing	0	0.00	49.00	Not Playing
+PG	Damian Lillard	40.74	$9,200.00	POR	MIN	43.9	4.77	44.8	4.87	25.73	29.6	44.35	4.82	46.00	36
+C	Andre Drummond	44.76	$9,200.00	CLE	MEM	45.8	4.98	41.7	4.53	19.62	30.5	43.75	4.76	46.00	25
+SG	CJ McCollum	45.97	$9,000.00	POR	MIN	40.3	4.48	44.7	4.97	25.37	29.2	42.5	4.72	45.00	38
+PG	Ben Simmons	40.94	$8,700.00	PHI	BKN	42.8	4.92	42.1	4.84	20.17	19.9	42.45	4.88	43.50	33
+PG	Ja Morant	40.30	$8,500.00	MEM	CLE	Not Playing	0	Not Playing	0	16.89	Not Playing	0	0.00	42.50	Not Playing
+SG	DeMar DeRozan	40.03	$8,200.00	SA	LAL	38	4.63	35.5	4.33	20.42	22.9	36.75	4.48	41.00	35
+PF	Kristaps Porzingis	41.07	$8,000.00	DAL	DEN	Not Playing	0	Not Playing	0	19.18	Not Playing	0	0.00	40.00	Not Playing
+SF	Tobias Harris	37.95	$7,900.00	PHI	BKN	36.6	4.63	38.2	4.84	23.06	22.7	37.4	4.73	39.50	35
+SG	DAngelo Russell	32.46	$7,800.00	MIN	POR	39	5.00	39.4	5.05	22.26	29.1	39.2	5.03	39.00	32
+PG	Jamal Murray	32.97	$7,600.00	DEN	DAL	35.5	4.67	31.7	4.17	22.68	24.2	33.6	4.42	38.00	35
+PG	Dejounte Murray	34.31	$7,200.00	SA	LAL	38.8	5.39	34.8	4.83	26.75	24.5	36.8	5.11	36.00	31
+SG	Collin Sexton	35.67	$6,900.00	CLE	MEM	34	4.93	36.9	5.35	17.2	26	35.45	5.14	34.50	33
+PF	Larry Nance	30.24	$6,800.00	CLE	MEM	31.3	4.60	32.7	4.81	21.57	12.5	32	4.71	34.00	37
+SF	Michael Porter	37.22	$6,700.00	DEN	DAL	0	0.00	32.8	4.90	19.68	21.5	16.4	2.45	33.50	28
+PG	Darius Garland	32.67	$6,600.00	CLE	MEM	32.2	4.88	Not Playing	0	27.48	Not Playing	0	2.44	33.00	Not Playing
+SF	Keldon Johnson	32.46	$6,500.00	SA	LAL	28.5	4.38	27.1	4.17	26.09	21.5	27.8	4.28	32.50	30
+C	Jonas Valanciunas	33.81	$6,500.00	MEM	CLE	34.2	5.26	33.9	5.22	18.69	22.9	34.05	5.24	32.50	28
+SG	Caris LeVert	31.65	$6,500.00	BKN	PHI	30	4.62	29	4.46	23.07	29.3	29.5	4.54	32.50	31
+C	Jarrett Allen	31.64	$6,300.00	BKN	PHI	29.5	4.68	30.8	4.89	18.31	15.4	30.15	4.79	31.50	26
+C	Jusuf Nurkic	26.86	$6,200.00	POR	MIN	34.7	5.60	37.2	6.00	27.47	20.3	35.95	5.80	31.00	26
+PF	LaMarcus Aldridge	23.70	$6,200.00	SA	LAL	25.9	4.18	25.6	4.13	15.82	24.6	25.75	4.15	31.00	26
+PG	Derrick White	15.70	$6,000.00	SA	LAL	0	0.00	Not Playing	0	26.75	Not Playing	0	0.00	30.00	Not Playing
+SG	Dillon Brooks	30.81	$6,000.00	MEM	CLE	26.7	4.45	25.3	4.22	19.96	27.9	26	4.33	30.00	31
+SF	Will Barton	25.30	$6,000.00	DEN	DAL	27.2	4.53	24.2	4.03	19.68	19.6	25.7	4.28	30.00	27
+SF	Kyle Anderson	30.71	$5,900.00	MEM	CLE	32.6	5.53	30.9	5.24	21.74	23.2	31.75	5.38	29.50	35
+PF	Kevin Love	20.45	$5,700.00	CLE	MEM	Not Playing	0	Not Playing	0	21.57	Not Playing	0	0.00	28.50	Not Playing
+SF	Tim Hardaway	26.66	$5,700.00	DAL	DEN	27.6	4.84	25.8	4.53	20.89	23	26.7	4.68	28.50	27
+SG	Malik Beasley	28.79	$5,600.00	MIN	POR	32	5.71	29.2	5.21	22.26	23.1	30.6	5.46	28.00	32
+PG	Tyus Jones	21.07	$5,400.00	MEM	CLE	26.1	4.83	27.4	5.07	16.89	14.5	26.75	4.95	27.00	25
+SG	Dennis Schroder	27.33	$5,300.00	LAL	SA	28.5	5.38	30.5	5.75	21.11	24.1	29.5	5.57	26.50	34
+C	Montrezl Harrell	25.06	$5,300.00	LAL	SA	26.9	5.08	22.6	4.26	15.68	19.3	24.75	4.67	26.50	26
+SF	Cedi Osman	22.73	$5,200.00	CLE	MEM	21.7	4.17	22.6	4.35	28.12	20.8	22.15	4.26	26.00	30
+C	Enes Kanter	23.21	$5,200.00	POR	MIN	23.2	4.46	21.1	4.06	27.47	18.2	22.15	4.26	26.00	17
+PF	Brandon Clarke	22.26	$5,100.00	MEM	CLE	26.6	5.22	25.4	4.98	25.22	19	26	5.10	25.50	30
+PF	Robert Covington	21.57	$5,000.00	POR	MIN	25.5	5.10	24.7	4.94	19.38	10.4	25.1	5.02	25.00	32
+SG	Seth Curry	27.01	$5,000.00	PHI	BKN	24.1	4.82	27.1	5.42	21.31	17.1	25.6	5.12	25.00	29
+SF	Joe Harris	22.10	$4,900.00	BKN	PHI	21.2	4.33	22.6	4.61	20.08	16	21.9	4.47	24.50	30
+SF	Rudy Gay	25.33	$4,800.00	SA	LAL	20.9	4.35	21.5	4.48	26.09	22.9	21.2	4.42	24.00	23
+SG	Josh Richardson	21.77	$4,800.00	DAL	DEN	24	5.00	26.8	5.58	24.04	19.2	25.4	5.29	24.00	33
+PF	JaVale McGee	22.39	$4,700.00	CLE	MEM	22.8	4.85	23.2	4.94	21.57	26.1	23	4.89	23.50	15
+SF	Justise Winslow	26.33	$4,700.00	MEM	CLE	Not Playing	0	Not Playing	0	21.74	Not Playing	0	0.00	23.50	Not Playing
+C	Gorgui Dieng	20.51	$4,600.00	MEM	CLE	22.5	4.89	23.5	5.11	18.69	19.8	23	5.00	23.00	19
+SF	Jarrett Culver	18.47	$4,600.00	MIN	POR	21.1	4.59	20.9	4.54	24.15	18.3	21	4.57	23.00	25
+PG	Ricky Rubio	17.27	$4,500.00	MIN	POR	16.9	3.76	17.9	3.98	37.52	14.6	17.4	3.87	22.50	20
+PG	Monte Morris	21.36	$4,500.00	DEN	DAL	19.8	4.40	15.1	3.36	22.68	15.1	17.45	3.88	22.50	24
+PG	Shake Milton	22.16	$4,500.00	PHI	BKN	19.6	4.36	22.4	4.98	20.17	22.5	21	4.67	22.50	22
+SF	Jarred Vanderbilt	20.28	$4,500.00	MIN	POR	19.3	4.29	17.6	3.91	24.15	16.2	18.45	4.10	22.50	12
+PF	Paul Millsap	17.84	$4,400.00	DEN	DAL	19.7	4.48	19.5	4.43	19.14	18.1	19.6	4.45	22.00	21
+SG	John Konchar	20.72	$4,400.00	MEM	CLE	0	0.00	Not Playing	0	19.96	Not Playing	0	0.00	22.00	Not Playing
+PF	Naz Reid	19.57	$4,400.00	MIN	POR	24.6	5.59	24.3	5.52	12.64	19.8	24.45	5.56	22.00	21
+SG	Lonnie Walker	20.71	$4,400.00	SA	LAL	21	4.77	17.1	3.89	20.42	18.5	19.05	4.33	22.00	29
+SF	Dorian Finney-Smith	19.49	$4,400.00	DAL	DEN	22.1	5.02	22	5.00	20.89	13.3	22.05	5.01	22.00	31
+C	Jakob Poeltl	18.99	$4,300.00	SA	LAL	22.3	5.19	23.3	5.42	18.85	0	22.8	5.30	21.50	19
+PG	Patty Mills	21.70	$4,300.00	SA	LAL	21.2	4.93	15.4	3.58	26.75	18.4	18.3	4.26	21.50	22
+PF	Taurean Prince	12.29	$4,200.00	BKN	PHI	16.6	3.95	14.7	3.50	20.94	17.8	15.65	3.73	21.00	22
+SF	Carmelo Anthony	19.65	$4,200.00	POR	MIN	21.8	5.19	20.7	4.93	20.47	19.7	21.25	5.06	21.00	23
+PF	JaMychal Green	22.33	$4,200.00	DEN	DAL	22.2	5.29	17.5	4.17	19.14	23.7	19.85	4.73	21.00	21
+PF	Juancho Hernangomez	14.40	$4,200.00	MIN	POR	23.7	5.64	20.6	4.90	12.64	16.1	22.15	5.27	21.00	24
+PG	Jalen Brunson	20.16	$4,200.00	DAL	DEN	21.7	5.17	18	4.29	25.15	26.2	19.85	4.73	21.00	19
+PF	Kyle Kuzma	19.29	$4,100.00	LAL	SA	22.2	5.41	22.9	5.59	21.58	18.7	22.55	5.50	20.50	25
+SF	Timothe Luwawu-Cabarrot	13.30	$4,100.00	BKN	PHI	15.2	3.71	20.1	4.90	20.08	18.2	17.65	4.30	20.50	24
+SF	Anthony Edwards	20.43	$4,100.00	MIN	POR	19.6	4.78	21.7	5.29	24.15	26	20.65	5.04	20.50	22
+SF	Josh Okogie	14.50	$4,100.00	MIN	POR	0	0.00	Not Playing	0	24.15	Not Playing	0	0.00	20.50	Not Playing
+PG	Trey Burke	12.29	$4,100.00	DAL	DEN	0	0.00	Not Playing	0	25.15	Not Playing	0	0.00	20.50	Not Playing
+C	Willie Cauley-Stein	13.27	$4,000.00	DAL	DEN	10.7	2.68	16	4.00	23.98	16.2	13.35	3.34	20.00	16
+C	Dwight Powell	15.99	$4,000.00	DAL	DEN	21.1	5.28	19.9	4.98	23.98	11.3	20.5	5.13	20.00	26
+C	Marc Gasol	18.55	$4,000.00	LAL	SA	13.9	3.48	20.7	5.18	15.68	9.6	17.3	4.33	20.00	22
+PF	Maxi Kleber	17.91	$4,000.00	DAL	DEN	20.3	5.08	22.7	5.68	19.18	11.1	21.5	5.38	20.00	23
+SF	Kevin Porter	18.86	$3,900.00	CLE	MEM	Not Playing	0	Not Playing	0	28.12	Not Playing	0	0.00	19.50	Not Playing
+SF	Danny Green	18.90	$3,900.00	PHI	BKN	20.2	5.18	20.8	5.33	23.06	14	20.5	5.26	19.50	26
+C	DeAndre Jordan	17.73	$3,900.00	BKN	PHI	20.2	5.18	14.1	3.62	18.31	11.4	17.15	4.40	19.50	19
+SF	Derrick Jones	17.63	$3,900.00	POR	MIN	18.8	4.82	21.9	5.62	20.47	11.3	20.35	5.22	19.50	27
+SG	Bruce Brown	6.70	$3,900.00	BKN	PHI	21.1	5.41	16.2	4.15	23.07	14	18.65	4.78	19.50	23
+PG	Facundo Campazzo	9.53	$3,800.00	DEN	DAL	17.7	4.66	12.4	3.26	22.68	17	15.05	3.96	19.00	12
+PF	Jeff Green	8.38	$3,800.00	BKN	PHI	15	3.95	12.5	3.29	20.94	8.8	13.75	3.62	19.00	17
+SG	Desmond Bane	14.59	$3,800.00	MEM	CLE	18.2	4.79	18.4	4.84	19.96	15.9	18.3	4.82	19.00	24
+PF	Tony Bradley	21.10	$3,800.00	PHI	BKN	0.3	0.08	Not Playing	0	27.12	Not Playing	0	0.04	19.00	Not Playing
+C	Dwight Howard	14.00	$3,800.00	PHI	BKN	20.2	5.32	20.8	5.47	20.53	18.6	20.5	5.39	19.00	17
+SG	Gary Trent	16.46	$3,800.00	POR	MIN	19.1	5.03	16	4.21	25.37	20.4	17.55	4.62	19.00	19
+PG	DeAnthony Melton	15.90	$3,800.00	MEM	CLE	21.7	5.71	22.5	5.92	16.89	14.7	22.1	5.82	19.00	18
+SG	Gary Harris	15.59	$3,800.00	DEN	DAL	17.2	4.53	18.4	4.84	20.71	14	17.8	4.68	19.00	30
+SF	Jake Layman	11.91	$3,800.00	MIN	POR	9.2	2.42	11.9	3.13	24.15	14.2	10.55	2.78	19.00	15
+C	Ed Davis	12.73	$3,700.00	MIN	POR	11.7	3.16	14.1	3.81	23.76	10.8	12.9	3.49	18.50	17
+SG	Tyrese Maxey	10.68	$3,700.00	PHI	BKN	12.5	3.38	12.8	3.46	21.31	19.1	12.65	3.42	18.50	15
+SF	Matisse Thybulle	8.07	$3,700.00	PHI	BKN	12	3.24	8.6	2.32	23.06	9.5	10.3	2.78	18.50	18
+PG	Dante Exum	12.32	$3,600.00	CLE	MEM	0	0.00	Not Playing	0	27.48	Not Playing	0	0.00	18.00	Not Playing
+SG	Kentavious Caldwell-Pope	16.97	$3,600.00	LAL	SA	0	0.00	18.7	5.19	21.11	13.6	9.35	2.60	18.00	29
+SF	Wesley Matthews	11.52	$3,600.00	LAL	SA	9.8	2.72	12.6	3.50	30.62	8.5	11.2	3.11	18.00	17
+PG	Matthew Dellavedova	9.54	$3,600.00	CLE	MEM	9.7	2.69	11.2	3.11	27.48	0	10.45	2.90	18.00	15
+PG	Alex Caruso	9.17	$3,600.00	LAL	SA	15.7	4.36	11.5	3.19	27.93	16.6	13.6	3.78	18.00	12
+PF	Zach Collins	18.16	$3,600.00	POR	MIN	Not Playing	0	Not Playing	0	19.38	Not Playing	0	0.00	18.00	Not Playing
+SG	Devin Vassell	12.98	$3,600.00	SA	LAL	9.3	2.58	12.2	3.39	20.42	12.9	10.75	2.99	18.00	15
+PF	Isaiah Hartenstein	11.72	$3,600.00	DEN	DAL	0.3	0.08	2.9	0.81	19.14	29.3	1.6	0.44	18.00	2
+SF	Isaac Okoro	12.57	$3,600.00	CLE	MEM	10.2	2.83	18.3	5.08	28.12	8.3	14.25	3.96	18.00	29
+C	Bol Bol	1.40	$3,600.00	DEN	DAL	0.4	0.11	Not Playing	0	22.88	Not Playing	0	0.06	18.00	Not Playing
+C	Drew Eubanks	15.37	$3,600.00	SA	LAL	2.1	0.58	Not Playing	0	18.85	Not Playing	0	0.29	18.00	Not Playing
+PG	Chris Chiozza	7.30	$3,600.00	BKN	PHI	0.1	0.03	Not Playing	0	18.92	Not Playing	0	0.01	18.00	Not Playing
+SG	Talen Horton-Tucker	15.21	$3,500.00	LAL	SA	11.4	3.26	13.1	3.74	21.11	18.8	12.25	3.50	17.50	11
+SF	Alfonzo McKinnie	4.15	$3,500.00	LAL	SA	0	0.00	Not Playing	0	30.62	Not Playing	0	0.00	17.50	Not Playing
+SG	Dylan Windler	8.00	$3,500.00	CLE	MEM	0	0.00	Not Playing	0	17.2	Not Playing	0	0.00	17.50	Not Playing
+SF	Nassir Little	8.35	$3,500.00	POR	MIN	0	0.00	Not Playing	0	20.47	Not Playing	0	0.00	17.50	Not Playing
+SG	Quinndary Weatherspoon	3.99	$3,500.00	SA	LAL	Not Playing	0	Not Playing	0	20.42	Not Playing	0	0.00	17.50	Not Playing
+PF	Nicolas Claxton	10.72	$3,500.00	BKN	PHI	0	0.00	Not Playing	0	20.94	Not Playing	0	0.00	17.50	Not Playing
+SF	Rodney Hood	6.98	$3,500.00	POR	MIN	9.3	2.66	10.7	3.06	20.47	11.6	10	2.86	17.50	12
+C	Vincent Poirier	5.55	$3,500.00	PHI	BKN	0	0.00	Not Playing	0	20.53	Not Playing	0	0.00	17.50	Not Playing
+PF	Dean Wade	4.96	$3,500.00	CLE	MEM	0	0.00	5.5	1.57	21.57	11.9	2.75	0.79	17.50	10
+SF	Vlatko Cancar	-0.50	$3,500.00	DEN	DAL	0	0.00	Not Playing	0	19.68	Not Playing	0	0.00	17.50	Not Playing
+SG	Wes Iwundu	4.85	$3,500.00	DAL	DEN	Not Playing	0	Not Playing	0	24.04	Not Playing	0	0.00	17.50	Not Playing
+PF	Luka Samanic	2.00	$3,500.00	SA	LAL	0.4	0.11	Not Playing	0	15.82	Not Playing	0	0.06	17.50	Not Playing
+PF	Marques Bolden	4.76	$3,500.00	CLE	MEM	Not Playing	0	Not Playing	0	21.57	Not Playing	0	0.00	17.50	Not Playing
+SF	Jontay Porter	0.00	$3,500.00	MEM	CLE	Not Playing	0	Not Playing	0	21.74	Not Playing	0	0.00	17.50	Not Playing
+PF	Devontae Cacok	13.50	$3,500.00	LAL	SA	0	0.00	Not Playing	0	21.58	Not Playing	0	0.00	17.50	Not Playing
+SG	Dakota Mathias	7.13	$3,500.00	PHI	BKN	0.1	0.03	Not Playing	0	21.31	Not Playing	0	0.01	17.50	Not Playing
+PG	Keljin Blevins	2.17	$3,500.00	POR	MIN	0	0.00	Not Playing	0	25.73	Not Playing	0	0.00	17.50	Not Playing
+SG	Nate Hinton	0.00	$3,500.00	DAL	DEN	Not Playing	0	Not Playing	0	24.04	Not Playing	0	0.00	17.50	Not Playing
+C	Boban Marjanovic	8.15	$3,500.00	DAL	DEN	3.4	0.97	8	2.29	23.98	24.9	5.7	1.63	17.50	6
+PG	Jordan McLaughlin	12.85	$3,500.00	MIN	POR	0.6	0.17	Not Playing	0	37.52	Not Playing	0	0.09	17.50	Not Playing
+PF	Trey Lyles	6.97	$3,500.00	SA	LAL	0	0.00	Not Playing	0	15.82	Not Playing	0	0.00	17.50	Not Playing
+SG	Damyean Dotson	9.41	$3,500.00	CLE	MEM	10.2	2.91	13.7	3.91	17.2	12.8	11.95	3.41	17.50	23
+PG	R.J. Hampton	0.68	$3,500.00	DEN	DAL	Not Playing	0	Not Playing	0	22.68	Not Playing	0	0.00	17.50	Not Playing
+SG	PJ Dozier	14.26	$3,500.00	DEN	DAL	15	4.29	14.7	4.20	20.71	15.2	14.85	4.24	17.50	20
+SF	CJ Elleby	3.13	$3,500.00	POR	MIN	0	0.00	Not Playing	0	20.47	Not Playing	0	0.00	17.50	Not Playing
+PF	Zeke Nnaji	0.00	$3,500.00	DEN	DAL	0.1	0.03	Not Playing	0	19.14	Not Playing	0	0.01	17.50	Not Playing
+C	Thon Maker	9.56	$3,500.00	CLE	MEM	11.4	3.26	Not Playing	0	19.62	Not Playing	0	1.63	17.50	Not Playing
+SF	Jaden McDaniels	6.82	$3,500.00	MIN	POR	0.1	0.03	Not Playing	0	24.15	Not Playing	0	0.01	17.50	Not Playing
+PG	Tyler Johnson	7.72	$3,500.00	BKN	PHI	5.2	1.49	7.3	2.09	18.92	9.8	6.25	1.79	17.50	5
+PG	Tre Jones	8.05	$3,500.00	SA	LAL	0.5	0.14	Not Playing	0	26.75	Not Playing	0	0.07	17.50	Not Playing
+SG	Furkan Korkmaz	11.90	$3,500.00	PHI	BKN	Not Playing	0	Not Playing	0	21.31	Not Playing	0	0.00	17.50	Not Playing
+PG	Tyrell Terry	2.30	$3,500.00	DAL	DEN	0	0.00	4.9	1.40	25.15	17.1	2.45	0.70	17.50	7
+PF	Markieff Morris	11.88	$3,500.00	LAL	SA	12.6	3.60	11.4	3.26	21.58	12.5	12	3.43	17.50	11
+SG	Josh Green	2.60	$3,500.00	DAL	DEN	3.3	0.94	1.2	0.34	24.04	10.1	2.25	0.64	17.50	4
+PG	Isaiah Joe	5.33	$3,500.00	PHI	BKN	0	0.00	Not Playing	0	20.17	Not Playing	0	0.00	17.50	Not Playing
+PF	Harry Giles	9.40	$3,500.00	POR	MIN	6.7	1.91	5.7	1.63	19.38	18.9	6.2	1.77	17.50	4
+SF	Paul Reed	2.00	$3,500.00	PHI	BKN	Not Playing	0	Not Playing	0	23.06	Not Playing	0	0.00	17.50	Not Playing
+SG	Terrance Ferguson	0.68	$3,500.00	PHI	BKN	0	0.00	Not Playing	0	21.31	Not Playing	0	0.00	17.50	Not Playing
+SG	Spencer Dinwiddie	17.70	$3,500.00	BKN	PHI	Not Playing	0	Not Playing	0	23.07	Not Playing	0	0.00	17.50	Not Playing
+SF	Tyler Bey	0.00	$3,500.00	DAL	DEN	Not Playing	0	Not Playing	0	20.89	Not Playing	0	0.00	17.50	Not Playing
+PF	Xavier Tillman	12.80	$3,500.00	MEM	CLE	1.2	0.34	Not Playing	0	25.22	Not Playing	0	0.17	17.50	Not Playing
+PF	Reggie Perry	4.90	$3,500.00	BKN	PHI	Not Playing	0	Not Playing	0	20.94	Not Playing	0	0.00	17.50	Not Playing
+PG	Tim Frazier	10.89	$3,500.00	MEM	CLE	0.6	0.17	Not Playing	0	16.89	Not Playing	0	0.09	17.50	Not Playing
+SG	Ashton Hagans	0.00	$3,500.00	MIN	POR	Not Playing	0	Not Playing	0	22.26	Not Playing	0	0.00	17.50	Not Playing
+PF	Jaren Jackson	29.98	$3,500.00	MEM	CLE	Not Playing	0	Not Playing	0	25.22	Not Playing	0	0.00	17.50	Not Playing
+PG	Markus Howard	0.00	$3,500.00	DEN	DAL	0	0.00	Not Playing	0	22.68	Not Playing	0	0.00	17.50	Not Playing
+SF	Jared Dudley	2.63	$3,500.00	LAL	SA	0	0.00	Not Playing	0	30.62	Not Playing	0	0.00	17.50	Not Playing
+SF	Sean McDermott	4.03	$3,500.00	MEM	CLE	1.2	0.34	Not Playing	0	21.74	Not Playing	0	0.17	17.50	Not Playing
+PF	Lamar Stevens	9.27	$3,500.00	CLE	MEM	0	0.00	Not Playing	0	21.57	Not Playing	0	0.00	17.50	Not Playing
+SF	Keita Bates-Diop	0.00	$3,500.00	SA	LAL	Not Playing	0	Not Playing	0	26.09	Not Playing	0	0.00	17.50	Not Playing
+PF	Rodions Kurucs	2.20	$3,500.00	BKN	PHI	0.2	0.06	Not Playing	0	20.94	Not Playing	0	0.03	17.50	Not Playing
+SF	Greg Whittington	0.00	$3,500.00	DEN	DAL	Not Playing	0	Not Playing	0	19.68	Not Playing	0	0.00	17.50	Not Playing
+PG	Quinn Cook	2.44	$3,500.00	LAL	SA	0	0.00	Not Playing	0	27.93	Not Playing	0	0.00	17.50	Not Playing
+PF	Killian Tillie	0.00	$3,500.00	MEM	CLE	Not Playing	0	Not Playing	0	25.22	Not Playing	0	0.00	17.50	Not Playing
+SG	Grayson Allen	11.30	$3,500.00	MEM	CLE	9.9	2.83	10.5	3.00	19.96	12	10.2	2.91	17.50	19
+PG	Anfernee Simons	7.93	$3,500.00	POR	MIN	0.8	0.23	3.6	1.03	25.73	18.8	2.2	0.63	17.50	4
+PG	Jaylen Nowell	7.34	$3,500.00	MIN	POR	0.1	0.03	Not Playing	0	37.52	Not Playing	0	0.01	17.50	Not Playing
+PF	James Johnson	15.33	$3,500.00	DAL	DEN	12.1	3.46	11.9	3.40	19.18	15.6	12	3.43	17.50	17
+PF	Mike Scott	8.52	$3,500.00	PHI	BKN	0	0.00	6.9	1.97	27.12	13.4	3.45	0.99	17.50	13
+PF	Kostas Antetokounmpo	8.80	$3,500.00	LAL	SA	Not Playing	0	Not Playing	0	21.58	Not Playing	0	0.00	17.50	Not Playing
+SG	Landry Shamet	8.48	$3,500.00	BKN	PHI	5.7	1.63	6.2	1.77	23.07	13.8	5.95	1.70	17.50	12
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
+						Not Playing	0	Not Playing	0	#N/A	Not Playing	0	0.00	0.00	Not Playing
