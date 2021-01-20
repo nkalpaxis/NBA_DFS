@@ -1,134 +1,331 @@
 Position	Nickname	FPPG	Salary	Team	Opponent	NF Proj	NF Value	FPros Proj	FPros Value	DvP	Final Proj	Final Value	PTS for 5x value	Minutes/GAME	3PA	3P%	FGA
-C	Nikola Jokic	57.28	$11,500.00	DEN	OKC	54	4.70	56.93	4.95	51.1	55.47	4.8	57.50	35.00	34	41.2	41.2
-SG	Shai Gilgeous-Alexander	38.65	$8,600.00	OKC	DEN	37.5	4.36	40.79	4.74	37.46	39.15	4.6	43.00	33.00	54	35.2	162
-C	Rudy Gobert	37.97	$8,500.00	UTA	NO	37.2	4.38	36.24	4.26	46.86	36.72	4.3	42.50	30.36	0	0	94
-SF	Brandon Ingram	40.48	$8,400.00	NO	UTA	36	4.29	39.05	4.65	40.66	37.53	4.5	42.00	35.00	58	34.5	179
-SG	Donovan Mitchell	35.65	$8,200.00	UTA	NO	38.4	4.68	36.92	4.50	42.13	37.66	4.6	41.00	33.55	98	37.8	218
-PG	Jamal Murray	31.97	$7,800.00	DEN	OKC	35.2	4.51	33.95	4.35	40.71	34.58	4.4	39.00	35.00	62	38.7	151
-PF	Zion Williamson	36.84	$7,800.00	NO	UTA	35.2	4.51	35.64	4.57	45.47	35.42	4.5	39.00	31.78	2	0	140
-PG	Mike Conley	32.83	$7,600.00	UTA	NO	29.2	3.84	30.75	4.05	48	29.98	3.9	38.00	30.27	79	43	146
-SF	Michael Porter	37.22	$6,700.00	DEN	OKC	0	0.00	0	0.00	44.33	0.00	0.0	33.50	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-SG	Jordan Clarkson	27.65	$6,300.00	UTA	NO	27.7	4.40	25.51	4.05	42.13	26.61	4.2	31.50	24.27	71	43.7	144
-SF	Will Barton	25.25	$6,100.00	DEN	OKC	25	4.10	27.16	4.45	44.33	26.08	4.3	30.50	28.91	42	38.1	116
-C	Steven Adams	28.93	$5,800.00	NO	UTA	27.6	4.76	28.92	4.99	53.15	28.26	4.9	29.00	30.90	0	0	67
-PF	Royce ONeale	21.95	$5,500.00	UTA	NO	20.9	3.80	22.12	4.02	44.97	21.51	3.9	27.50	31.64	45	46.7	57
-PG	Lonzo Ball	26.76	$5,500.00	NO	UTA	29.2	5.31	25.92	4.71	40.98	27.56	5.0	27.50	33.44	65	30.8	109
-PG	Eric Bledsoe	23.84	$5,500.00	NO	UTA	25.7	4.67	22.36	4.07	40.98	24.03	4.4	27.50	29.89	45	37.8	87
-C	Al Horford	25.76	$5,500.00	OKC	DEN	0	0.00	0	0.00	41.75	0.00	0.0	27.50	27.11	50	32	98
-SF	Luguentz Dort	21.89	$5,300.00	OKC	DEN	19	3.58	21.64	4.08	41.45	20.32	3.8	26.50	27.55	54	44.4	98
-PF	Darius Bazley	24.60	$5,200.00	OKC	DEN	25.5	4.90	25.56	4.92	41.15	25.53	4.9	26.00	29.82	53	26.4	114
-SF	Bojan Bogdanovic	19.55	$5,000.00	UTA	NO	23.4	4.68	20.65	4.13	42.58	22.03	4.4	25.00	30.36	71	35.2	131
-SG	Nickeil Alexander-Walker	18.86	$4,900.00	NO	UTA	10.9	2.22	15.41	3.14	42.55	13.16	2.7	24.50	17.13	33	36.4	77
-PG	George Hill	21.62	$4,900.00	OKC	DEN	19.9	4.06	21.36	4.36	57.14	20.63	4.2	24.50	25.50	40	37.5	83
-PG	Monte Morris	21.42	$4,800.00	DEN	OKC	19.7	4.10	19.5	4.06	40.71	19.60	4.1	24.00	25.82	37	37.8	89
-PF	Paul Millsap	19.95	$4,700.00	DEN	OKC	20.7	4.40	20.73	4.41	55.37	20.72	4.4	23.50	24.00	36	44.4	81
-SF	Josh Hart	21.77	$4,700.00	NO	UTA	21.9	4.66	20.22	4.30	40.66	21.06	4.5	23.50	29.20	40	32.5	66
-SG	Gary Harris	18.42	$4,600.00	DEN	OKC	19.4	4.22	19.48	4.23	40.42	19.44	4.2	23.00	31.70	41	26.8	91
-PF	Isaiah Roby	16.69	$4,500.00	OKC	DEN	21	4.67	23.45	5.21	41.15	22.23	4.9	22.50	17.75	12	41.7	42
-SG	Hamidou Diallo	22.73	$4,500.00	OKC	DEN	14.9	3.31	20.83	4.63	37.46	17.87	4.0	22.50	21.00	12	33.3	92
-SG	PJ Dozier	17.06	$4,400.00	DEN	OKC	18.6	4.23	17.73	4.03	40.42	18.17	4.1	22.00	19.91	24	37.5	65
-PF	JaMychal Green	20.50	$4,400.00	DEN	OKC	25.1	5.70	21.61	4.91	55.37	23.36	5.3	22.00	20.57	32	50	54
-SF	Joe Ingles	19.32	$4,400.00	UTA	NO	20	4.55	20.2	4.59	42.58	20.10	4.6	22.00	25.89	45	35.6	70
-SF	Trevor Ariza	19.82	$4,400.00	OKC	DEN	Not Playing	0	0	0.00	41.45	0	0.0	22.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-SF	JJ Redick	12.94	$4,200.00	NO	UTA	17.7	4.21	12.06	2.87	40.66	14.88	3.5	21.00	21.80	51	29.4	74
-C	Derrick Favors	18.12	$4,200.00	UTA	NO	18.8	4.48	16.71	3.98	46.86	17.76	4.2	21.00	16.55	0	0	50
-C	Jaxson Hayes	11.41	$4,000.00	NO	UTA	10.2	2.55	11.71	2.93	53.15	10.96	2.7	20.00	11.90	0	0	23
-PF	Mike Muscala	15.96	$4,000.00	OKC	DEN	15	3.75	16.72	4.18	41.15	15.86	4.0	20.00	17.70	51	39.2	71
-PF	Aleksej Pokusevski	13.25	$3,800.00	OKC	DEN	9.2	2.42	10.68	2.81	41.15	9.94	2.6	19.00	16.44	27	18.5	45
-SF	Kenrich Williams	9.91	$3,800.00	OKC	DEN	6.9	1.82	12.52	3.29	41.45	9.71	2.6	19.00	10.73	9	33.3	27
-PG	Theo Maledon	12.92	$3,600.00	OKC	DEN	12.8	3.56	13.27	3.69	57.14	13.04	3.6	18.00	20.45	38	28.9	69
-SF	Justin Jackson	8.32	$3,600.00	OKC	DEN	10.6	2.94	0	0.00	41.45	5.30	1.5	18.00	14.25	12	8.3	19
-C	Willy Hernangomez	7.30	$3,600.00	NO	UTA	Not Playing	0	Not Playing	0	53.15	0	0.0	18.00	7.00	0	0	1
-PF	Georges Niang	6.55	$3,600.00	UTA	NO	2.1	0.58	7.9	2.19	44.97	5.00	1.4	18.00	9.27	20	25	30
-PG	RJ Hampton	0.93	$3,500.00	DEN	OKC	0	0.00	0	0.00	40.71	0.00	0.0	17.50	2.00	1	0	5
-PG	Facundo Campazzo	9.06	$3,500.00	DEN	OKC	6.9	1.97	6.96	1.99	40.71	6.93	2.0	17.50	12.30	25	40	34
-SF	Darius Miller	1.00	$3,500.00	OKC	DEN	0	0.00	Not Playing	0	41.45	0	0.0	17.50	3.50	3	33.3	3
-SF	Naji Marshall	2.70	$3,500.00	NO	UTA	Not Playing	0	0	0.00	40.66	0	0.0	17.50	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-PF	Zeke Nnaji	0.88	$3,500.00	DEN	OKC	0	0.00	Not Playing	0	55.37	0	0.0	17.50	2.20	2	0	4
-C	Udoka Azubuike	3.20	$3,500.00	UTA	NO	0.2	0.06	0	0.00	46.86	0.10	0.0	17.50	4.80	0	0	4
-SF	Josh Hall	3.20	$3,500.00	OKC	DEN	0	0.00	Not Playing	0	41.45	0	0.0	17.50	6.50	6	16.7	11
-SF	Elijah Hughes	4.55	$3,500.00	UTA	NO	0	0.00	Not Playing	0	42.58	0	0.0	17.50	4.40	10	30	14
-SF	Vlatko Cancar	1.30	$3,500.00	DEN	OKC	0	0.00	Not Playing	0	44.33	0	0.0	17.50	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-PG	Kira Lewis	8.56	$3,500.00	NO	UTA	0	0.00	0	0.00	40.98	0.00	0.0	17.50	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-C	Moses Brown	7.78	$3,500.00	OKC	DEN	0	0.00	Not Playing	0	41.75	0	0.0	17.50	4.00	0	0	5
-PF	Juwan Morgan	1.20	$3,500.00	UTA	NO	0.1	0.03	0	0.00	44.97	0.05	0.0	17.50	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-PF	Isaiah Hartenstein	11.28	$3,500.00	DEN	OKC	0.2	0.06	4.77	1.36	55.37	2.49	0.7	17.50	9.78	0	0	33
-PG	Shaquille Harrison	4.00	$3,500.00	UTA	NO	0	0.00	0	0.00	48	0.00	0.0	17.50	4.40	0	0	7
-SG	Trent Forrest	3.25	$3,500.00	UTA	NO	0	0.00	Not Playing	0	42.13	0	0.0	17.50	4.50	0	0	0
-PG	Markus Howard	0.70	$3,500.00	DEN	OKC	0	0.00	Not Playing	0	40.71	0	0.0	17.50	1.40	4	0	5
-C	Will Magnay	0.00	$3,500.00	NO	UTA	Not Playing	0	Not Playing	0	53.15	0	0.0	17.50	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-PF	Wenyen Gabriel	5.85	$3,500.00	NO	UTA	0	0.00	Not Playing	0	45.47	0	0.0	17.50	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-SF	Greg Whittington	0.00	$3,500.00	DEN	OKC	Not Playing	0	Not Playing	0	44.33	0	0.0	17.50	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-SF	Jarrell Brantley	4.20	$3,500.00	UTA	NO	Not Playing	0	Not Playing	0	42.58	0	0.0	17.50	6.00	1	0	1
-C	Bol Bol	3.36	$3,500.00	DEN	OKC	0.4	0.11	0	0.00	51.1	0.20	0.1	17.50	6.00	5	40	8
-PF	Nicolo Melli	7.81	$3,500.00	NO	UTA	1	0.29	1.96	0.56	45.47	1.48	0.4	17.50	11.43	14	21.4	17
-SG	Sindarius Thornwell	5.47	$3,500.00	NO	UTA	0	0.00	0	0.00	42.55	0.00	0.0	17.50	9.67	1	0	5
-SG	Miye Oni	5.99	$3,500.00	UTA	NO	4.7	1.34	1.83	0.52	42.13	3.27	0.9	17.50	7.50	7	42.9	9
-SG	Ty Jerome	8.36	$3,500.00	OKC	DEN	0	0.00	Not Playing	0	37.46	0	0.0	17.50	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
-						Not Playing	0	Not Playing	0	#N/A	0	0.0	0.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
+PG	Luka Doncic	54.32	$11,500.00	DAL	IND	50.1	4.36	54.3	4.72	47.74	52.20	4.5	57.50	34.11	66	27.3	27.3
+C	Karl-Anthony Towns	50.63	$10,800.00	MIN	ORL	48.9	4.53	0	0.00	53.82	24.45	2.3	54.00	33.00	16	37.5	63
+SG	James Harden	50.63	$10,700.00	BKN	CLE	49.3	4.61	54.6	5.10	44.97	51.95	4.9	53.50	36.25	72	34.7	135
+C	Andre Drummond	48.52	$10,500.00	CLE	BKN	44.6	4.25	45.1	4.30	62.7	44.85	4.3	52.50	31.55	6	0	180
+SF	Kevin Durant	49.65	$10,300.00	BKN	CLE	30.5	2.96	43.7	4.24	35.07	37.10	3.6	51.50	34.33	52	46.2	162
+PG	Damian Lillard	44.66	$10,000.00	POR	MEM	44.3	4.43	47	4.70	42.17	45.65	4.6	50.00	35.73	114	37.7	208
+C	Nikola Vucevic	45.45	$9,900.00	ORL	MIN	44.5	4.49	53.9	5.44	60.63	49.20	5.0	49.50	31.45	66	42.4	199
+PF	Christian Wood	43.83	$9,800.00	HOU	PHO	40.7	4.15	35.4	3.61	50.19	38.05	3.9	49.00	32.88	37	27	140
+PG	Stephen Curry	44.55	$9,800.00	GS	SA	38.3	3.91	45	4.59	41.58	41.65	4.3	49.00	34.18	122	36.9	223
+C	Joel Embiid	48.38	$9,800.00	PHI	BOS	45.2	4.61	49.5	5.05	52.49	47.35	4.8	49.00	32.00	31	38.7	160
+PF	Jayson Tatum	44.12	$9,600.00	BOS	PHI	0	0.00	0	0.00	42.36	0.00	0.0	48.00	34.60	80	43.8	213
+PF	Domantas Sabonis	46.07	$9,600.00	IND	DAL	44.1	4.59	46.1	4.80	40.5	45.10	4.7	48.00	37.73	24	37.5	171
+PG	Kyrie Irving	46.13	$9,200.00	BKN	CLE	41.4	4.50	40.2	4.37	43.67	40.80	4.4	46.00	33.00	61	42.6	141
+SF	Kawhi Leonard	44.73	$9,100.00	LAC	SAC	46.3	5.09	49.1	5.40	37.93	47.70	5.2	45.50	35.10	48	43.8	188
+PG	Trae Young	39.89	$9,000.00	ATL	DET	37.9	4.21	46.1	5.12	45.72	42.00	4.7	45.00	33.00	57	29.8	173
+PF	Bam Adebayo	40.95	$8,800.00	MIA	TOR	41.2	4.68	41.5	4.72	47.29	41.35	4.7	44.00	30.38	0	0	81
+PG	Malcolm Brogdon	42.30	$8,800.00	IND	DAL	41.1	4.67	37.5	4.26	37.92	39.30	4.5	44.00	37.09	75	45.3	196
+SG	CJ McCollum	42.75	$8,700.00	POR	MEM	0	0.00	0	0.00	34.12	0.00	0.0	43.50	35.18	126	43.7	231
+SF	Jimmy Butler	37.10	$8,600.00	MIA	TOR	0	0.00	0	0.00	44.59	0.00	0.0	43.00	29.00	7	0	77
+SG	Paul George	41.15	$8,500.00	LAC	SAC	45.3	5.33	42.7	5.02	52.4	44.00	5.2	42.50	35.09	91	51.6	181
+SF	Jerami Grant	41.60	$8,400.00	DET	ATL	26.1	3.11	42.9	5.11	33.76	34.50	4.1	42.00	36.73	78	38.5	204
+SG	DAngelo Russell	36.09	$8,400.00	MIN	ORL	35.1	4.18	37.5	4.46	39.41	36.30	4.3	42.00	31.45	80	38.8	195
+PG	Ben Simmons	38.68	$8,300.00	PHI	BOS	38.7	4.66	41.5	5.00	35.28	40.10	4.8	41.50	32.60	2	50	93
+SF	Jaylen Brown	42.25	$8,300.00	BOS	PHI	39.7	4.78	35.6	4.29	48.35	37.65	4.5	41.50	34.60	57	42.1	191
+PF	Chris Boucher	34.94	$8,100.00	TOR	MIA	31.1	3.84	38.3	4.73	43.46	34.70	4.3	40.50	22.20	36	47.2	90
+SF	Pascal Siakam	37.61	$8,000.00	TOR	MIA	37.6	4.70	37.8	4.73	47.31	37.70	4.7	40.00	35.89	42	31	149
+C	Clint Capela	35.25	$8,000.00	ATL	DET	26.4	3.30	41	5.13	52.99	33.70	4.2	40.00	26.38	0	0	67
+SG	DeMar DeRozan	41.77	$8,000.00	SA	GS	40.2	5.03	42.4	5.30	41.45	41.30	5.2	40.00	34.44	23	39.1	133
+PG	Ja Morant	37.50	$7,900.00	MEM	POR	36.5	4.62	40	5.06	48.17	38.25	4.8	39.50	27.00	9	33.3	55
+SG	Victor Oladipo	38.17	$7,900.00	HOU	PHO	38.9	4.92	36	4.56	45.41	37.45	4.7	39.50	33.33	69	36.2	152
+SG	Devin Booker	32.94	$7,800.00	PHO	HOU	37.7	4.83	41.7	5.35	43.57	39.70	5.1	39.00	35.36	66	34.8	183
+PG	Dejounte Murray	35.52	$7,800.00	SA	GS	32.5	4.17	34.2	4.38	45.66	33.35	4.3	39.00	32.55	37	32.4	162
+PG	DeAaron Fox	36.12	$7,800.00	SAC	LAC	39.1	5.01	38.6	4.95	47.71	38.85	5.0	39.00	30.58	46	34.8	179
+PG	John Wall	35.37	$7,600.00	HOU	PHO	0	0.00	0	0.00	40.34	0.00	0.0	38.00	33.86	31	32.3	108
+SG	Fred VanVleet	37.49	$7,600.00	TOR	MIA	36.6	4.82	38.3	5.04	45.18	37.45	4.9	38.00	35.80	90	38.9	173
+PF	Kristaps Porzingis	33.30	$7,500.00	DAL	IND	26.5	3.53	42.4	5.65	42.41	34.45	4.6	37.50	21.00	9	44.4	16
+SG	Caris LeVert	35.28	$7,500.00	IND	DAL	0	0.00	0	0.00	36.47	0.00	0.0	37.50	27.83	63	34.9	200
+PG	Kyle Lowry	37.46	$7,500.00	TOR	MIA	40.9	5.45	41.2	5.49	47.2	41.05	5.5	37.50	36.44	76	34.2	130
+SF	Tobias Harris	35.96	$7,400.00	PHI	BOS	36.2	4.89	34.2	4.62	41.07	35.20	4.8	37.00	32.78	47	44.7	134
+C	Myles Turner	37.91	$7,400.00	IND	DAL	31.2	4.22	31.1	4.20	57.11	31.15	4.2	37.00	31.09	48	31.3	103
+SF	Larry Nance	30.18	$7,100.00	CLE	BKN	27.1	3.82	26.9	3.79	31.55	27.00	3.8	35.50	34.83	45	42.2	97
+SG	Collin Sexton	35.67	$7,100.00	CLE	BKN	33.2	4.68	34.1	4.80	46.96	33.65	4.7	35.50	37.38	31	51.6	147
+PF	Aaron Gordon	31.02	$7,000.00	ORL	MIN	30	4.29	33.2	4.74	43.42	31.60	4.5	35.00	27.20	42	35.7	114
+C	Richaun Holmes	31.70	$7,000.00	SAC	LAC	27.3	3.90	30.3	4.33	47.28	28.80	4.1	35.00	28.64	2	50	89
+SG	Andrew Wiggins	31.18	$7,000.00	GS	SA	32	4.57	30.8	4.40	36.57	31.40	4.5	35.00	32.55	61	39.3	167
+PG	Chris Paul	33.02	$6,900.00	PHO	HOU	31.8	4.61	37.2	5.39	47.79	34.50	5.0	34.50	31.64	28	28.6	122
+C	Jonas Valanciunas	32.54	$6,800.00	MEM	POR	30.5	4.49	0	0.00	52.92	15.25	2.2	34.00	27.36	13	30.8	120
+PF	Jarrett Allen	30.83	$6,800.00	CLE	BKN	27.4	4.03	27.4	4.03	41.67	27.40	4.0	34.00	26.58	0	0	65
+C	Deandre Ayton	31.88	$6,700.00	PHO	HOU	34.5	5.15	34.3	5.12	51.2	34.40	5.1	33.50	30.18	4	25	106
+SF	Keldon Johnson	30.01	$6,700.00	SA	GS	26.2	3.91	30.6	4.57	35.15	28.40	4.2	33.50	32.09	35	37.1	121
+SF	Malik Beasley	29.99	$6,600.00	MIN	ORL	22.8	3.45	28.2	4.27	46.94	25.50	3.9	33.00	32.45	75	38.7	179
+PF	John Collins	30.33	$6,600.00	ATL	DET	31.9	4.83	35.3	5.35	48.73	33.60	5.1	33.00	28.10	33	39.4	115
+PG	Darius Garland	32.67	$6,600.00	CLE	BKN	28.1	4.26	26.9	4.08	41.5	27.50	4.2	33.00	35.83	32	46.9	88
+SG	Derrick Rose	28.35	$6,500.00	DET	ATL	31.8	4.89	27.9	4.29	41.41	29.85	4.6	32.50	23.63	21	28.6	102
+PF	Brandon Clarke	27.92	$6,500.00	MEM	POR	23.1	3.55	32.7	5.03	49.83	27.90	4.3	32.50	28.73	24	25	134
+PG	Kemba Walker	22.60	$6,300.00	BOS	PHI	25.4	4.03	24.4	3.87	52.97	24.90	4.0	31.50	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
+C	Enes Kanter	25.86	$6,300.00	POR	MEM	28.2	4.48	37.5	5.95	56.39	32.85	5.2	31.50	19.00	0	0	74
+PF	Blake Griffin	27.43	$6,300.00	DET	ATL	30.3	4.81	29	4.60	44.97	29.65	4.7	31.50	32.13	57	31.6	94
+PF	Marvin Bagley	25.66	$6,200.00	SAC	LAC	24.7	3.98	25.4	4.10	40.92	25.05	4.0	31.00	24.92	29	34.5	130
+PG	Shake Milton	27.32	$6,200.00	PHI	BOS	19.4	3.13	25.6	4.13	35.28	22.50	3.6	31.00	25.89	40	27.5	96
+SG	Tyler Herro	30.04	$6,100.00	MIA	TOR	25.3	4.15	27.8	4.56	45.07	26.55	4.4	30.50	33.89	51	29.4	127
+PG	Derrick White	15.70	$6,000.00	SA	GS	Not Playing	0	0	0.00	45.66	0	0.0	30.00	23.00	4	25	9
+SG	Marcus Smart	28.53	$6,000.00	BOS	PHI	28.7	4.78	29.1	4.85	43.22	28.90	4.8	30.00	33.44	47	36.2	88
+C	Jusuf Nurkic	26.74	$6,000.00	POR	MEM	0	0.00	0	0.00	56.39	0.00	0.0	30.00	23.64	9	22.2	95
+PF	LaMarcus Aldridge	26.13	$6,000.00	SA	GS	36.1	6.02	31.6	5.27	42.92	33.85	5.6	30.00	29.38	34	29.4	120
+SF	OG Anunoby	28.77	$6,000.00	TOR	MIA	25.4	4.23	28	4.67	47.31	26.70	4.5	30.00	34.90	57	31.6	95
+SF	Cedi Osman	25.22	$5,900.00	CLE	BKN	19.3	3.27	15	2.54	31.55	17.15	2.9	29.50	29.42	83	30.1	147
+SF	Harrison Barnes	30.09	$5,800.00	SAC	LAC	24.6	4.24	24.8	4.28	34.33	24.70	4.3	29.00	34.75	41	41.5	139
+SG	Buddy Hield	26.35	$5,800.00	SAC	LAC	29.3	5.05	28.7	4.95	39.42	29.00	5.0	29.00	34.33	127	37	173
+SF	Kyle Anderson	29.64	$5,800.00	MEM	POR	25.1	4.33	27.8	4.79	35.96	26.45	4.6	29.00	29.82	48	33.3	126
+PF	Kevin Love	20.45	$5,700.00	CLE	BKN	Not Playing	0	0	0.00	41.67	0	0.0	28.50	23.00	9	33.3	18
+SF	Mikal Bridges	28.87	$5,700.00	PHO	HOU	24.8	4.35	26.7	4.68	46.7	25.75	4.5	28.50	32.73	64	45.3	113
+SF	DeAndre Hunter	29.04	$5,600.00	ATL	DET	23.1	4.13	24.4	4.36	42.65	23.75	4.2	28.00	31.60	46	43.5	110
+PG	Delon Wright	20.84	$5,600.00	DET	ATL	24.1	4.30	18.8	3.36	58.07	21.45	3.8	28.00	26.27	22	31.8	74
+SG	Tyrese Haliburton	26.23	$5,600.00	SAC	LAC	24.5	4.38	25.1	4.48	39.42	24.80	4.4	28.00	28.90	48	52.1	85
+SG	Kevin Huerter	25.02	$5,500.00	ATL	DET	21.3	3.87	25.7	4.67	36.39	23.50	4.3	27.50	27.20	60	38.3	104
+PF	Serge Ibaka	24.86	$5,500.00	LAC	SAC	26.6	4.84	29.3	5.33	48.33	27.95	5.1	27.50	25.58	37	35.1	118
+C	Mason Plumlee	28.35	$5,500.00	DET	ATL	28	5.09	27.5	5.00	58	27.75	5.0	27.50	26.82	4	0	64
+PG	Kendrick Nunn	13.79	$5,500.00	MIA	TOR	7.1	1.29	7.2	1.31	48.59	7.15	1.3	27.50	12.20	9	11.1	29
+SF	Kelly Oubre	24.92	$5,400.00	GS	SA	26.5	4.91	26.9	4.98	49.23	26.70	4.9	27.00	26.91	58	17.2	133
+SG	Tim Hardaway	26.65	$5,400.00	DAL	IND	25.2	4.67	24.7	4.57	39.34	24.95	4.6	27.00	30.70	90	42.2	140
+PF	Draymond Green	23.29	$5,400.00	GS	SA	21.4	3.96	27.3	5.06	37.16	24.35	4.5	27.00	27.14	15	20	30
+C	Jakob Poeltl	18.97	$5,300.00	SA	GS	22.9	4.32	19.8	3.74	56.76	21.35	4.0	26.50	19.00	0	0	42
+SG	Terrence Ross	24.54	$5,300.00	ORL	MIN	24.4	4.60	29.7	5.60	42.66	27.05	5.1	26.50	27.30	55	40	126
+SF	Evan Fournier	22.12	$5,300.00	ORL	MIN	0	0.00	0	0.00	44.02	0.00	0.0	26.50	25.40	23	34.8	45
+PG	Ricky Rubio	20.15	$5,300.00	MIN	ORL	0	0.00	0	0.00	56.61	0.00	0.0	26.50	24.45	21	23.8	63
+PF	Daniel Theis	17.91	$5,200.00	BOS	PHI	22	4.23	22	4.23	42.36	22.00	4.2	26.00	22.50	21	23.8	60
+SF	Duncan Robinson	23.20	$5,200.00	MIA	TOR	24	4.62	20.7	3.98	44.59	22.35	4.3	26.00	32.00	78	39.7	86
+SG	Dillon Brooks	27.32	$5,200.00	MEM	POR	26.3	5.06	25.5	4.90	41.25	25.90	5.0	26.00	30.09	75	32	181
+SF	Eric Gordon	23.86	$5,200.00	HOU	PHO	26.6	5.12	21.5	4.13	29.42	24.05	4.6	26.00	25.57	54	29.6	76
+PG	Goran Dragic	24.83	$5,200.00	MIA	TOR	33.8	6.50	26	5.00	48.59	29.90	5.8	26.00	23.50	37	37.8	83
+C	Willie Cauley-Stein	16.58	$5,100.00	DAL	IND	19.3	3.78	17.1	3.35	52.65	18.20	3.6	25.50	17.40	1	0	32
+SG	Rodney Hood	8.47	$5,000.00	POR	MEM	9.1	1.82	21.3	4.26	34.12	15.20	3.0	25.00	13.33	13	23.1	29
+PG	Damyean Dotson	16.92	$5,000.00	CLE	BKN	6.1	1.22	12	2.40	41.5	9.05	1.8	25.00	25.36	46	28.3	88
+SF	JaeSean Tate	20.05	$5,000.00	HOU	PHO	23.1	4.62	18.1	3.62	29.42	20.60	4.1	25.00	23.67	14	28.6	51
+SG	Grayson Allen	17.08	$5,000.00	MEM	POR	15.8	3.16	14.1	2.82	41.25	14.95	3.0	25.00	20.60	40	32.5	55
+PG	Cole Anthony	21.43	$5,000.00	ORL	MIN	19.6	3.92	24.2	4.84	46.94	21.90	4.4	25.00	23.27	33	18.2	111
+C	Dwight Howard	18.63	$5,000.00	PHI	BOS	14.1	2.82	18.9	3.78	52.49	16.50	3.3	25.00	16.25	6	50	49
+C	Kelly Olynyk	24.78	$4,900.00	MIA	TOR	27.9	5.69	17.7	3.61	48.86	22.80	4.7	24.50	28.50	55	40	74
+SF	Danny Green	22.41	$4,900.00	PHI	BOS	16.9	3.45	18.3	3.73	41.07	17.60	3.6	24.50	28.00	81	35.8	108
+PF	Nicolas Batum	24.07	$4,900.00	LAC	SAC	21.6	4.41	25.4	5.18	48.33	23.50	4.8	24.50	29.08	53	43.4	82
+PG	Tyus Jones	24.34	$4,900.00	MEM	POR	14.1	2.88	19.2	3.92	48.17	16.65	3.4	24.50	27.00	31	22.6	96
+SF	Semi Ojeleye	11.46	$4,900.00	BOS	PHI	12.6	2.57	11.2	2.29	48.35	11.90	2.4	24.50	17.33	27	40.7	44
+SF	Dorian Finney-Smith	22.25	$4,900.00	DAL	IND	23	4.69	0	0.00	41.84	11.50	2.3	24.50	29.38	43	32.6	65
+PF	Robert Covington	20.86	$4,800.00	POR	MEM	28.1	5.85	25.4	5.29	40.15	26.75	5.6	24.00	30.82	56	33.9	74
+SF	Taurean Prince	15.44	$4,800.00	CLE	BKN	5.7	1.19	15.4	3.21	31.55	10.55	2.2	24.00	18.17	37	35.1	74
+PF	Jarred Vanderbilt	18.73	$4,800.00	MIN	ORL	2.8	0.58	24.6	5.13	37.93	13.70	2.9	24.00	14.89	0	0	29
+SG	Sterling Brown	16.44	$4,800.00	HOU	PHO	1	0.21	0	0.00	45.41	0.50	0.1	24.00	18.67	30	46.7	45
+C	DeAndre Jordan	19.11	$4,800.00	BKN	CLE	20.1	4.19	22.5	4.69	51.69	21.30	4.4	24.00	18.08	0	0	29
+SG	Norman Powell	18.32	$4,800.00	TOR	MIA	21.8	4.54	22.5	4.69	45.18	22.15	4.6	24.00	22.90	42	42.9	84
+SG	Tyrese Maxey	19.61	$4,800.00	PHI	BOS	19.2	4.00	14.5	3.02	42.77	16.85	3.5	24.00	21.00	29	31	126
+SG	Isaac Okoro	17.67	$4,800.00	CLE	BKN	18	3.75	20.7	4.31	46.96	19.35	4.0	24.00	36.00	20	30	56
+SF	Justise Winslow	26.33	$4,700.00	MEM	POR	Not Playing	0	0	0.00	35.96	0	0.0	23.50	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
+PF	James Johnson	18.28	$4,700.00	DAL	IND	12.5	2.66	22	4.68	42.41	17.25	3.7	23.50	17.10	21	28.6	47
+C	Naz Reid	20.40	$4,700.00	MIN	ORL	25.5	5.43	22	4.68	53.82	23.75	5.1	23.50	19.55	29	37.9	81
+SG	Anthony Edwards	19.32	$4,700.00	MIN	ORL	24.1	5.13	21.5	4.57	39.41	22.80	4.9	23.50	24.73	60	26.7	140
+PG	Payton Pritchard	19.05	$4,700.00	BOS	PHI	17.7	3.77	14.5	3.09	52.97	16.10	3.4	23.50	22.90	26	42.3	64
+PG	Patrick Beverley	21.36	$4,600.00	LAC	SAC	21.5	4.67	23.5	5.11	61.45	22.50	4.9	23.00	26.42	55	43.6	83
+C	Robert Williams	21.99	$4,600.00	BOS	PHI	15.6	3.39	16.6	3.61	47.65	16.10	3.5	23.00	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE	NOT ACTIVE
+PF	Xavier Tillman	20.96	$4,600.00	MEM	POR	0	0.00	21	4.57	49.83	10.50	2.3	23.00	18.17	3	0	36
+SG	Luke Kennard	15.91	$4,600.00	LAC	SAC	17.3	3.76	17.9	3.89	52.4	17.60	3.8	23.00	22.75	38	47.4	74
+C	DeMarcus Cousins	19.79	$4,500.00	HOU	PHO	17.1	3.80	18.7	4.16	47.75	17.90	4.0	22.50	13.43	17	35.3	45
+PF	Khem Birch	19.98	$4,500.00	ORL	MIN	23.9	5.31	17.6	3.91	43.42	20.75	4.6	22.50	19.82	1	100	56
+SG	Seth Curry	27.01	$4,500.00	PHI	BOS	25.2	5.60	20.5	4.56	42.77	22.85	5.1	22.50	30.00	42	59.5	78
+SG	Lonnie Walker	21.79	$4,500.00	SA	GS	19.9	4.42	22.7	5.04	41.45	21.30	4.7	22.50	29.27	52	40.4	131
+PG	Jeff Teague	18.03	$4,500.00	BOS	PHI	12.9	2.87	8.8	1.96	52.97	10.85	2.4	22.50	19.88	13	53.8	54
+SG	Cam Reddish	22.38	$4,500.00	ATL	DET	18.1	4.02	23.2	5.16	36.39	20.65	4.6	22.50	28.50	52	28.8	106
+SG	Ben McLemore	16.20	$4,500.00	HOU	PHO	23.3	5.18	13.4	2.98	45.41	18.35	4.1	22.50	16.33	17	58.8	21
+SF	Joe Harris	24.27	$4,500.00	BKN	CLE	23	5.11	22.6	5.02	35.07	22.80	5.1	22.50	28.92	76	50	140
+C	Tacko Fall	15.20	$4,400.00	BOS	PHI	0.2	0.05	0	0.00	47.65	0.10	0.0	22.00	12.50	0	0	4
+PF	Tristan Thompson	20.85	$4,400.00	BOS	PHI	20.4	4.64	23.3	5.30	42.36	21.85	5.0	22.00	23.13	0	0	51
+PF	Juancho Hernangomez	15.33	$4,400.00	MIN	ORL	Not Playing	0	0	0.00	37.93	0	0.0	22.00	20.36	39	30.8	68
+SG	Mason Jones	13.47	$4,400.00	HOU	PHO	11.6	2.64	12.7	2.89	45.41	12.15	2.8	22.00	7.33	5	20	9
+SG	Aaron Holiday	13.82	$4,400.00	IND	DAL												
+SG	John Konchar	19.13	$4,400.00	MEM	POR												
+PF	Jae Crowder	20.77	$4,400.00	PHO	HOU												
+PG	Lou Williams	16.93	$4,400.00	LAC	SAC												
+C	James Wiseman	22.70	$4,400.00	GS	SA												
+PF	JaVale McGee	21.36	$4,300.00	CLE	BKN												
+PF	Marquese Chriss	17.80	$4,300.00	GS	SA												
+PF	Marcus Morris	17.45	$4,300.00	LAC	SAC												
+PG	DeAnthony Melton	19.53	$4,300.00	MEM	POR												
+SG	David Nwaba	16.32	$4,300.00	HOU	PHO												
+SF	Cameron Johnson	21.03	$4,300.00	PHO	HOU												
+C	Dwight Powell	15.54	$4,300.00	DAL	IND												
+C	Gorgui Dieng	19.58	$4,300.00	MEM	POR												
+PG	Trey Burke	16.69	$4,300.00	DAL	IND												
+C	Hassan Whiteside	15.57	$4,200.00	SAC	LAC												
+SF	Justin Holiday	20.52	$4,200.00	IND	DAL												
+PF	Eric Paschall	19.60	$4,200.00	GS	SA												
+SF	Danilo Gallinari	12.75	$4,200.00	ATL	DET												
+SF	Josh Jackson	21.31	$4,200.00	DET	ATL												
+SG	Devin Vassell	15.93	$4,200.00	SA	GS												
+PF	Maxi Kleber	18.84	$4,100.00	DAL	IND												
+SG	Bruce Brown	13.15	$4,100.00	BKN	CLE												
+C	Chimezie Metu	12.36	$4,100.00	SAC	LAC												
+SF	Jarrett Culver	17.40	$4,100.00	MIN	ORL												
+PF	Dario Saric	18.13	$4,100.00	PHO	HOU												
+SF	Carmelo Anthony	21.23	$4,100.00	POR	MEM												
+SF	Rudy Gay	23.74	$4,100.00	SA	GS												
+SG	Josh Richardson	21.76	$4,100.00	DAL	IND												
+PF	PJ Tucker	18.09	$4,100.00	HOU	PHO												
+PG	Edmond Sumner	13.27	$4,100.00	IND	DAL												
+PG	TJ McConnell	18.17	$4,100.00	IND	DAL												
+PG	Gabe Vincent	18.36	$4,000.00	MIA	TOR												
+SG	Javonte Green	13.50	$4,000.00	BOS	PHI												
+C	Ivica Zubac	17.43	$4,000.00	LAC	SAC												
+PG	Patty Mills	21.36	$4,000.00	SA	GS												
+PG	Carsen Edwards	5.40	$4,000.00	BOS	PHI												
+SF	Danuel House	17.52	$4,000.00	HOU	PHO												
+SF	Derrick Jones	18.59	$4,000.00	POR	MEM												
+PF	Jeff Green	13.03	$4,000.00	BKN	CLE												
+SG	Damion Lee	15.25	$4,000.00	GS	SA												
+PG	Jordan McLaughlin	13.16	$3,900.00	MIN	ORL												
+SG	Reggie Jackson	12.37	$3,900.00	LAC	SAC												
+SF	Josh Okogie	14.88	$3,900.00	MIN	ORL												
+PG	Jalen Brunson	19.04	$3,900.00	DAL	IND												
+SF	Kevin Porter	18.86	$3,900.00	CLE	BKN												
+PF	Isaiah Stewart	14.48	$3,900.00	DET	ATL												
+PF	Tony Bradley	18.02	$3,900.00	PHI	BOS												
+SG	Dwayne Bacon	15.10	$3,800.00	ORL	MIN												
+PF	Jabari Parker	26.55	$3,800.00	SAC	LAC												
+PG	Tyler Johnson	7.72	$3,800.00	BKN	CLE												
+SF	Timothe Luwawu-Cabarrot	13.21	$3,800.00	BKN	CLE												
+SG	Wayne Ellington	14.29	$3,800.00	DET	ATL												
+SG	Terance Mann	6.65	$3,800.00	LAC	SAC												
+SG	Matt Thomas	8.90	$3,800.00	TOR	MIA												
+PG	Tremont Waters	7.92	$3,800.00	BOS	PHI												
+SF	Matisse Thybulle	11.05	$3,800.00	PHI	BOS												
+PG	Jordan Poole	7.14	$3,800.00	GS	SA												
+PG	Kris Dunn	22.39	$3,800.00	ATL	DET												
+PF	Doug McDermott	18.10	$3,800.00	IND	DAL												
+SF	Precious Achiuwa	16.51	$3,800.00	MIA	TOR												
+PG	Cameron Payne	17.53	$3,800.00	PHO	HOU												
+PG	Killian Hayes	9.73	$3,700.00	DET	ATL												
+PG	Jevon Carter	9.76	$3,700.00	PHO	HOU												
+PG	Rajon Rondo	10.32	$3,700.00	ATL	DET												
+PF	Grant Williams	12.51	$3,700.00	BOS	PHI												
+PG	Chris Chiozza	12.93	$3,700.00	BKN	CLE												
+PG	Michael Carter-Williams	16.03	$3,700.00	ORL	MIN												
+PG	Brad Wanamaker	13.14	$3,700.00	GS	SA												
+SG	Desmond Bane	14.55	$3,700.00	MEM	POR												
+PG	Brandon Goodwin	12.37	$3,700.00	ATL	DET												
+SG	Avery Bradley	17.09	$3,600.00	MIA	TOR												
+SF	Solomon Hill	11.25	$3,600.00	ATL	DET												
+SF	DaQuan Jeffries	7.32	$3,600.00	SAC	LAC												
+C	Ed Davis	12.73	$3,600.00	MIN	ORL												
+PF	Trey Lyles	7.39	$3,600.00	SA	GS												
+PG	Matthew Dellavedova	9.54	$3,600.00	CLE	BKN												
+SG	Gary Trent	15.35	$3,600.00	POR	MEM												
+PG	Dante Exum	12.32	$3,600.00	HOU	PHO												
+SF	Bogdan Bogdanovic	18.03	$3,600.00	ATL	DET												
+SF	Maurice Harkless	3.91	$3,600.00	MIA	TOR												
+SF	Kent Bazemore	13.42	$3,600.00	GS	SA												
+PF	Zach Collins	18.16	$3,600.00	POR	MEM												
+PF	Harry Giles	9.46	$3,600.00	POR	MEM												
+SF	Saddiq Bey	15.35	$3,600.00	DET	ATL												
+SF	Paul Reed	10.63	$3,600.00	PHI	BOS												
+PG	Frank Jackson	6.10	$3,600.00	DET	ATL												
+PF	Gary Clark	9.38	$3,600.00	ORL	MIN												
+C	Drew Eubanks	15.37	$3,600.00	SA	GS												
+SG	Paul Watson	3.50	$3,500.00	TOR	MIA												
+SF	Juan Toscano-Anderson	12.08	$3,500.00	GS	SA												
+SF	Mychal Mulder	6.45	$3,500.00	GS	SA												
+PF	Chris Silva	9.10	$3,500.00	MIA	TOR												
+C	Aron Baynes	9.40	$3,500.00	TOR	MIA												
+PF	Sekou Doumbouya	8.76	$3,500.00	DET	ATL												
+SG	Deividas Sirvydis	0.00	$3,500.00	DET	ATL												
+PF	Luka Samanic	1.33	$3,500.00	SA	GS												
+PF	Marques Bolden	4.03	$3,500.00	CLE	BKN												
+PF	Patrick Patterson	7.83	$3,500.00	LAC	SAC												
+PF	Al-Farouq Aminu	15.27	$3,500.00	ORL	MIN												
+PG	Keljin Blevins	1.60	$3,500.00	POR	MEM												
+PF	Frank Kaminsky	9.13	$3,500.00	PHO	HOU												
+SF	Max Strus	11.15	$3,500.00	MIA	TOR												
+PF	Nemanja Bjelica	13.17	$3,500.00	SAC	LAC												
+SF	TJ Warren	22.08	$3,500.00	IND	DAL												
+PF	Nathan Knight	6.08	$3,500.00	ATL	DET												
+SF	James Ennis	11.00	$3,500.00	ORL	MIN												
+SG	Tony Snell	6.38	$3,500.00	ATL	DET												
+SG	Terence Davis	10.93	$3,500.00	TOR	MIA												
+C	Damian Jones	5.56	$3,500.00	PHO	HOU												
+SG	Jay Scrubb	0.00	$3,500.00	LAC	SAC												
+SF	Kenyon Martin	8.12	$3,500.00	HOU	PHO												
+SG	Furkan Korkmaz	11.90	$3,500.00	PHI	BOS												
+SG	Klay Thompson	0.00	$3,500.00	GS	SA												
+SG	Spencer Dinwiddie	17.70	$3,500.00	BKN	CLE												
+SG	DeAndre Bembry	2.43	$3,500.00	TOR	MIA												
+PG	Cory Joseph	14.12	$3,500.00	SAC	LAC												
+C	Mo Bamba	10.95	$3,500.00	ORL	MIN												
+SG	Jeremy Lamb	24.83	$3,500.00	IND	DAL												
+PF	Jaren Jackson	29.98	$3,500.00	MEM	POR												
+C	Kevon Looney	11.02	$3,500.00	GS	SA												
+SF	Keita Bates-Diop	0.00	$3,500.00	SA	GS												
+SF	ETwaun Moore	0.60	$3,500.00	PHO	HOU												
+SG	Ty-Shon Alexander	0.90	$3,500.00	PHO	HOU												
+PF	Rodions Kurucs	3.65	$3,500.00	HOU	PHO												
+PF	Killian Tillie	0.00	$3,500.00	MEM	POR												
+C	Jahlil Okafor	9.20	$3,500.00	DET	ATL												
+SF	Jake Layman	9.93	$3,500.00	MIN	ORL												
+SF	KZ Okpala	5.97	$3,500.00	MIA	TOR												
+PG	Jordan Bone	9.50	$3,500.00	ORL	MIN												
+SG	Svi Mykhailiuk	14.09	$3,500.00	DET	ATL												
+PG	Anfernee Simons	7.67	$3,500.00	POR	MEM												
+PG	Jaylen Nowell	4.70	$3,500.00	MIN	ORL												
+SG	Brian Bowen	4.20	$3,500.00	IND	DAL												
+SG	Romeo Langford	5.77	$3,500.00	BOS	PHI												
+SG	Landry Shamet	10.11	$3,500.00	BKN	CLE												
+SG	Yuta Watanabe	7.90	$3,500.00	TOR	MIA												
+SF	Glenn Robinson	10.65	$3,500.00	SAC	LAC												
+PF	Bruno Fernando	8.30	$3,500.00	ATL	DET												
+SG	Justin James	5.74	$3,500.00	SAC	LAC												
+PF	Chuma Okeke	10.32	$3,500.00	ORL	MIN												
+SG	Dylan Windler	8.00	$3,500.00	CLE	BKN												
+SF	Nassir Little	3.85	$3,500.00	POR	MEM												
+SG	Quinndary Weatherspoon	3.99	$3,500.00	SA	GS												
+SF	Abdel Nader	4.70	$3,500.00	PHO	HOU												
+SF	Mfiondu Kabengele	3.13	$3,500.00	LAC	SAC												
+PF	Nicolas Claxton	10.72	$3,500.00	BKN	CLE												
+C	Goga Bitadze	15.40	$3,500.00	IND	DAL												
+SG	Kyle Guy	8.63	$3,500.00	SAC	LAC												
+PF	Alen Smailagic	8.64	$3,500.00	GS	SA												
+C	Vincent Poirier	3.70	$3,500.00	PHI	BOS												
+SG	Patrick McCaw	13.29	$3,500.00	TOR	MIA												
+PF	Dean Wade	6.34	$3,500.00	CLE	BKN												
+PG	Karim Mane	3.42	$3,500.00	ORL	MIN												
+SG	Wes Iwundu	8.43	$3,500.00	DAL	IND												
+SF	Jontay Porter	0.00	$3,500.00	MEM	POR												
+C	Meyers Leonard	6.47	$3,500.00	MIA	TOR												
+PF	JaKarr Sampson	6.29	$3,500.00	IND	DAL												
+PG	Chris Clemons	7.98	$3,500.00	HOU	PHO												
+SG	Nate Hinton	1.25	$3,500.00	DAL	IND												
+SG	Brodric Thomas	3.87	$3,500.00	HOU	PHO												
+SG	Langston Galloway	6.38	$3,500.00	PHO	HOU												
+C	Boban Marjanovic	7.36	$3,500.00	DAL	IND												
+PF	Udonis Haslem	7.93	$3,500.00	MIA	TOR												
+SG	Rodney McGruder	2.10	$3,500.00	DET	ATL												
+PF	Amir Coffey	2.76	$3,500.00	LAC	SAC												
+SG	Skylar Mays	0.50	$3,500.00	ATL	DET												
+SF	CJ Elleby	3.57	$3,500.00	POR	MEM												
+C	Onyeka Okongwu	14.00	$3,500.00	ATL	DET												
+PG	Saben Lee	5.57	$3,500.00	DET	ATL												
+SF	Kelan Martin	3.10	$3,500.00	IND	DAL												
+PG	Markelle Fultz	26.19	$3,500.00	ORL	MIN												
+SF	Jaden McDaniels	6.97	$3,500.00	MIN	ORL												
+PF	Jalen Smith	6.75	$3,500.00	PHO	HOU												
+PG	Tre Jones	4.03	$3,500.00	SA	GS												
+SF	Jonathan Isaac	32.27	$3,500.00	ORL	MIN												
+C	Daniel Oturu	6.54	$3,500.00	LAC	SAC												
+PG	Tyrell Terry	3.72	$3,500.00	DAL	IND												
+SG	Josh Green	4.98	$3,500.00	DAL	IND												
+PG	Isaiah Joe	13.47	$3,500.00	PHI	BOS												
+SG	Terrance Ferguson	0.34	$3,500.00	PHI	BOS												
+SF	Tyler Bey	0.73	$3,500.00	DAL	IND												
+SG	Aaron Nesmith	5.54	$3,500.00	BOS	PHI												
+PG	Jahmius Ramsey	3.33	$3,500.00	SAC	LAC												
+SG	Cassius Stanley	2.23	$3,500.00	IND	DAL												
+PG	Jalen Harris	0.00	$3,500.00	TOR	MIA												
+PF	Reggie Perry	8.36	$3,500.00	BKN	CLE												
+SG	Andre Iguodala	12.63	$3,500.00	MIA	TOR												
+PG	Malachi Flynn	5.77	$3,500.00	TOR	MIA												
+PG	Nico Mannion	5.40	$3,500.00	GS	SA												
+PF	Robert Woodard	4.32	$3,500.00	SAC	LAC												
+C	Alex Len	6.67	$3,500.00	TOR	MIA												
+SG	Ashton Hagans	0.00	$3,500.00	MIN	ORL												
+SF	Sean McDermott	4.03	$3,500.00	MEM	POR												
+PF	Lamar Stevens	9.17	$3,500.00	CLE	BKN												
+PG	Jalen Lecque	4.27	$3,500.00	IND	DAL												
+SF	Stanley Johnson	12.09	$3,500.00	TOR	MIA												
+PF	Mike Scott	9.49	$3,500.00	PHI	BOS												
