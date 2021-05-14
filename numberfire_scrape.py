@@ -107,7 +107,7 @@ df.to_csv("projections.csv", index=False)
 # code below will change names such as C.J. and De'Aron to
 # CJ, DeAron
 
-# read back in our newely created csv
+# read back in our projections csv
 num_proj = pd.read_csv("projections.csv")
 
 # make sure the column name "Player" is spelled the same as it is in your csv file
