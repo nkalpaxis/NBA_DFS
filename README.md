@@ -1,8 +1,8 @@
 # NBA DFS Spreadsheet
 
-# !! In order to see the color coded sheet with all columns, click the NBA DFS - Data Table.pdf and click download and the spreadsheet will open in your browser 
+# !! In order to see the color coded sheet with all columns, click the NBA DFS - Data Table.pdf, click download and the spreadsheet will open in your browser 
 
-This spreadsheet is used for NBA DFS purposes for the FanDuel website, all salaries & projections are tailored for FanDuel. The data used in the sheet comes from the following sources, updated daily; 
+This spreadsheet is used for NBA DFS purposes for the FanDuel website, all salaries & projections are tailored for FanDuel. The data used in the sheet comes from the following sources, scraped and updated daily; 
 
 - FanDuel: player list CSV which includes; salary, fantasy points per game, players team, and players opponent
 - NumberFire: player projections
