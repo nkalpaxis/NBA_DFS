@@ -36,6 +36,21 @@ The main sheet labeled 'Data Table', uses VLOOKUP function to grab the data from
 
 The .TSV sheet can be viewed right on github but you cannot filter columns or anything, the sheet is available for download in XLM form so you can import it into excel or google sheets(which I use to create the sheets)
 
+# Breakdown of files included in this repository:
+
+- numberfire_scrape.py file has comments to help you scrape numberfire projections on your own in python with selenium, the comments are very detailed
+- usagescrape.py file is used to scrape usage rates from NBA.com; selenium connects to the website, filters to all players, scrapes just the players name and his usage rate
+- dvp_scrape.py file is used to scrape Defense vs Position data from fantasypros based on Fantasy Points Per Game given up by defenses based on Fanduel scoring, the program connects to fantasypros DvP page and selects one of the following; points per game given up in the last 7 or 15 games just uncomment whichever range you want selenium to scrape (I personally have created lineups with both of them but have gravitated towards last 7 games), the program puts all of the data into a pandas DataFrames and then into a master_dataframe which joins all the dataframes for each position and saves the master dataframe to a csv file called 'dvp.csv'
+- NBA_scrape.py is basically the numberfire and DvP scrape in one file
+- fanduel_clean.py is a basic file, in order to use it you first need to download the slates player list from Fanduel, save it in your code editor as 'fanduel.csv' and scrape numberfire projections saved in a csv 'projections.csv'. Once you have done both this file opens the fanduel csv and drops columns we do not need (12 columns to be exact) as well as replacing apostrophes and periods in players names, the same replacing is done with the projections.csv file so players names all match when we import into excel, the changes to both files are saved back to the csv files.
+
+
+Basic work flow : (1) numberfire_scrape.py > (2) dvp_scrape.py > (3) usagerate.py > (4) fanduel_clean.py > (5) export all CSV files to excel/google sheets
+
+Or
+
+(1) NBA_scrape.py > (2) usagerate.py > (3) fanduel_clean.py > (4) export all CSV files to excel/google sheets
+
 This sheet and the data pulled will be building blocks to a machine learning program which will help create optimized lineups for each slate on the FanDuel website.  
 
 Special thanks to contributor : Shan Mohamed - a long time friend, fantasy sport enthusiast, and excel expert.
