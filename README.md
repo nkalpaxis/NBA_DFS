@@ -1,5 +1,7 @@
 # NBA DFS Spreadsheet
 
+# !! In order to see the color coded sheet with all columns, click the NBA DFS - Data Table.pdf and click download and the spreadsheet will open in your browser 
+
 This spreadsheet is used for NBA DFS purposes for the FanDuel website, all salaries & projections are tailored for FanDuel. The data used in the sheet comes from the following sources, updated daily; 
 
 - FanDuel: player list CSV which includes; salary, fantasy points per game, players team, and players opponent
@@ -25,9 +27,10 @@ The columns for the main sheet are as follows;
 - USG% (players usage which is in float value but is read as a percentage)
 - PTS for 5x value (amount of points a player needs to score in order to hit 5x value)
 
-The main sheet labeled 'Sheet 1', uses VLOOKUP function to grab the data from the other sheets like 'numfire' and 'dff', for example;
 
-=VLOOKUP(B2,numfire!A:C,3,false) -- the B column on Sheet 1 is the players name, so in the B2 cell that players name is found in the numfire sheet and the projection is pulled into Sheet 1, it searches for that players name between columns A:C and the projection value is located at index 3, false refers to [is_sorted] so by passing in false the function knows the players names on each sheet are not sorted.
+The main sheet labeled 'Data Table', uses VLOOKUP function to grab the data from the other sheets like 'numfire', 'fpros', and 'projections' for example;
+
+=VLOOKUP(B2,numfire!A:C,3,false) -- the B column on Sheet 1 is the players name, so in the B2 cell that players name is found in the numfire sheet and the projection is pulled into the Data Table sheet, it searches for that players name between columns A:C and the projection value is located at index 3, false refers to [is_sorted] so by passing in false the function knows the players names on each sheet are not sorted.
 
 ** Players that have projections or cells that are N/A most likely means they're not playing that night, sheet is updated 2-3 times a day as news comes out closer to tipoff **
 
