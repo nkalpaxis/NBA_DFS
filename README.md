@@ -1,6 +1,5 @@
 # NBA DFS Spreadsheet
-
-# !! In order to see the color coded sheet with all columns, click the NBA DFS - Data Table.pdf, click download and the spreadsheet will open in your browser 
+![Screen Shot 2021-10-04 at 2 21 54 PM](https://user-images.githubusercontent.com/58003892/135903962-4e65158e-82a7-4d9b-96e6-d42426c6421f.png)
 
 This spreadsheet is used for NBA DFS purposes for the FanDuel website, all salaries & projections are tailored for FanDuel. The data used in the sheet comes from the following sources, scraped and updated daily; 
 
